@@ -48,15 +48,8 @@ online-retail-sales-analytics/
 │   └── 04_matplotlib_visualization.ipynb
 │
 └── README.md
+```
 
-**Important:** There are **two separate triple-backtick lines**:
-
-1. ` ```text ` before the structure
-2. ` ``` ` immediately after `README.md`
-
-Then your next section starts normally:
-
-```markdown
 ## 📓 Notebooks
 
 | Notebook | Purpose |
@@ -95,7 +88,6 @@ The report covers:
 - Limitations
 - Future scope
 - Conclusion
-
 
 ## 💡 Key Insights
 
