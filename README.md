@@ -48,7 +48,7 @@ online-retail-sales-analytics/
 │   └── 04_matplotlib_visualization.ipynb
 │
 └── README.md
-
+```markdown
 ## 📓 Notebooks
 
 | Notebook | Purpose |
